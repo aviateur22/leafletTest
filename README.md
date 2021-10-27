@@ -1,24 +1,13 @@
 # leaflet_test
 
-## Project setup
-```
-npm install
-```
+## Action principal
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+> test utilisation de la librairie de Leaflet avec VueJs
+* marker
+* déplacement du marker sur la carte
+* click event
+* recuperation coordonnées géo
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Envie d'apprendre?  [Leaflet et vueJS](https://vue2-leaflet.netlify.app/).
